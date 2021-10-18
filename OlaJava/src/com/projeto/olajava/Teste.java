@@ -7,9 +7,9 @@ public class Teste {
 		int num2 = 6;
 		int resultado = 0;
 		
-		resultado = num1 * num2;
+		resultado = num1 + num2;
 		
-		System.out.println( resultado );
+		System.out.println(resultado);
 		
 	}
 
